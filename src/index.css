@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body, iframe {
+  background-color: #eef3f3;
+  font-family: "Exo 2", sans-serif;
+}
+.Contenedor {
+  width: 28%;
+  margin: auto;
+  display: table;
+  background-color: white;
+  padding: 28px;
+  border-radius: 20px;
+  box-shadow: -1px 5px 20px 0px #00000012;
+}
+iframe, h1 {
+  font-family: "Exo 2", sans-serif;
+  height: auto !important;
+  border-radius: 20px;
+  padding: 0px;
+}
+button {
+  margin-top: 20px;
+  background-color: #a104a1;
+  border: 0;
+  color: #fff;
+  font-size: 1rem;
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
